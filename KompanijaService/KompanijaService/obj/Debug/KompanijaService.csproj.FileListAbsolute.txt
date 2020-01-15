@@ -1,0 +1,413 @@
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\ApplicationInsights.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csc.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csc.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csc.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csi.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csi.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\csi.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.AppContext.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Console.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.IO.Compression.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Claims.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Threading.Thread.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.ValueTuple.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\vbc.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\vbc.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\vbc.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\KompanijaService.dll.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\KompanijaService.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\KompanijaService.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Antlr3.Runtime.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\EntityFramework.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Newtonsoft.Json.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Helpers.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Mvc.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Optimization.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Razor.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\WebGrease.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Newtonsoft.Json.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Helpers.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Mvc.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Optimization.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Razor.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Antlr3.Runtime.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\EntityFramework.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csprojResolveAssemblyReference.cache
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.CoreCompileInputs.cache
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.Migrations.initial.resources
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.GenerateResource.Cache
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Unity.Abstractions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Unity.Container.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Unity.Abstractions.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\Unity.Container.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\AutoMapper.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService\bin\AutoMapper.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\ApplicationInsights.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csc.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csc.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csc.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csi.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csi.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\csi.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.AppContext.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Console.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.IO.Compression.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Claims.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.ValueTuple.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\vbc.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\vbc.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\vbc.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\KompanijaService.dll.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\KompanijaService.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\KompanijaService.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Antlr3.Runtime.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\AutoMapper.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\EntityFramework.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Newtonsoft.Json.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Helpers.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Mvc.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Optimization.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Razor.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Unity.Abstractions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Unity.Container.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\WebGrease.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\AutoMapper.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Newtonsoft.Json.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Helpers.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Mvc.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Optimization.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Razor.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Unity.Abstractions.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Unity.Container.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Antlr3.Runtime.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\EntityFramework.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csprojAssemblyReference.cache
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.Migrations.initial.resources
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.GenerateResource.cache
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.CoreCompileInputs.cache
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.CopyComplete
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService\obj\Debug\KompanijaService.pdb
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\ApplicationInsights.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csc.exe
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csc.exe.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csc.rsp
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csi.exe
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csi.exe.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\csi.rsp
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.AppContext.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Console.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.IO.Compression.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Claims.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.ValueTuple.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\vbc.exe
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\vbc.exe.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\vbc.rsp
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\KompanijaService.dll.config
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\KompanijaService.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\KompanijaService.pdb
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Antlr3.Runtime.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\AutoMapper.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\EntityFramework.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Newtonsoft.Json.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Owin.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Helpers.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Mvc.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Optimization.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Razor.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Unity.Abstractions.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Unity.Container.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\WebGrease.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\AutoMapper.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Newtonsoft.Json.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Net.Http.Formatting.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Helpers.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.WebHost.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Mvc.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Optimization.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Razor.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.WebPages.Razor.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Unity.Abstractions.pdb
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Unity.Container.pdb
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Antlr3.Runtime.pdb
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\EntityFramework.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\EntityFramework.SqlServer.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\System.Web.Http.Owin.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\bin\Microsoft.AI.Web.xml
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csprojAssemblyReference.cache
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.Migrations.initial.resources
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.GenerateResource.cache
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.CoreCompileInputs.cache
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.csproj.CopyComplete
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.dll
+C:\Users\MARKO\Desktop\company-project\KompanijaService\KompanijaService\obj\Debug\KompanijaService.pdb

@@ -1,0 +1,434 @@
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.dll.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\EntityFramework.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.dll.config
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\EntityFramework.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.csprojResolveAssemblyReference.cache
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Container.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Container.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Abstractions.pdb
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\AutoMapper.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\AutoMapper.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\netstandard.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.AppContext.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Console.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Data.Common.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Compression.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Pipes.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Ping.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Requests.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Security.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ObjectModel.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.Reader.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.Writer.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Claims.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Principal.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.Encoding.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Thread.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Timer.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XPath.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Castle.Core.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Moq.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Castle.Core.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\Moq.xml
+C:\Users\netdev9\Desktop\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Console.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.Process.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.Compression.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.IO.Pipes.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.AccessControl.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Claims.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Threading.Thread.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.ValueTuple.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.dll.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.Tests.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\netstandard.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.AppContext.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Console.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Data.Common.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Compression.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.Pipes.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Ping.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Requests.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Security.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Sockets.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ObjectModel.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.Reader.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Resources.Writer.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Claims.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.Principal.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Security.SecureString.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.Encoding.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Thread.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Timer.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XPath.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\AutoMapper.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Castle.Core.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Moq.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Container.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\EntityFramework.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\KompanijaService.dll.config
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\AutoMapper.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Castle.Core.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Moq.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Container.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Unity.Abstractions.pdb
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\EntityFramework.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.csprojAssemblyReference.cache
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.csproj.CopyComplete
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.dll
+C:\Users\MARKO\Dropbox\KURSEVI\.NET Web Development\MODUL 3\Zavrsni Test\KompanijaService\KompanijaService.Tests\obj\Debug\KompanijaService.Tests.pdb
